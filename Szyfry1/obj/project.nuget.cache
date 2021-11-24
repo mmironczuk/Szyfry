@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jV6w056CdbYcqLQ8Z3SwwNvurdbSePJl/eRfz/OodMz2NlnGh7iJu/3zj5f7OLUXdLZuFAWjG3vBveRuiHEheA==",
+  "success": true,
+  "projectFilePath": "F:\\Politechnika\\Semestr6\\BSK\\Szyfry1\\Szyfry1\\Szyfry1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MichalMironczuk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MichalMironczuk\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\MichalMironczuk\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}
